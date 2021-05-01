@@ -19,11 +19,12 @@ export default function Hero() {
               truffaut hexagon try-hard chambray.
             </p>
             <div class="flex justify-center">
-              <button class="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                Button
+              <button class="inline-flex py-2 px-6 text-white bg-black border border-white py-2 px-6 focus:outline-none hover:bg-yellow-500 rounded text-lg">
+                Take A Tour.
               </button>
-              <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">
-                Button
+
+              <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-900 hover:text-white rounded text-lg">
+                Auto Sc
               </button>
             </div>
           </div>

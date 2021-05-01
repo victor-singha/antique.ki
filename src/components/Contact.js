@@ -48,7 +48,7 @@ export default function Contact() {
               ></textarea>
             </div>
             <button class="text-white bg-gray-900 border border-white py-2 px-6 focus:outline-none hover:bg-gray-800 rounded text-lg">
-              Button
+              Submit
             </button>
             <p class="text-xs text-gray-500 mt-3">
               Chicharrones blog helvetica normcore iceland tousled brook viral
