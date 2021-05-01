@@ -1,6 +1,8 @@
 import React from "react";
 
 export default function Footer() {
+  var date = new Date();
+  var year = date.getFullYear();
   return (
     <div>
       <footer class="text-gray-600 body-font">
@@ -17,10 +19,10 @@ export default function Footer() {
             </span>
           </a>
           <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
-            © 2021 Copyright —
+            © {year} Copyright —
             <a
               href="https://twitter.com/knyttneve"
-              class="text-gray-600 ml-1"
+              class="text-yellow-500 ml-1"
               rel="noopener noreferrer"
               target="_blank"
             >

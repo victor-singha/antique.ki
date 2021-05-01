@@ -6,7 +6,7 @@ export default function Team() {
       <div class="container px-5 py-24 mx-auto">
         <div class="flex flex-col text-center w-full mb-20">
           <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
-            Our Team
+            Our<span className="text-yellow-500">Team</span>
           </h1>
           <p class="lg:w-2/3 mx-auto leading-relaxed text-base">
             "Talent wins games, but teamwork and intelligence win
@@ -15,11 +15,11 @@ export default function Team() {
         </div>
         <div class="flex flex-wrap -m-2">
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center border-yellow-500 border p-4 rounded-lg">
+            <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
               <img
                 alt="team"
                 class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/80x80"
+                src="https://joeschmoe.io/api/v1/lalbhai"
               />
               <div class="flex-grow">
                 <h2 class="text-gray-900 title-font font-medium">
@@ -34,7 +34,7 @@ export default function Team() {
               <img
                 alt="team"
                 class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/84x84"
+                src="https://joeschmoe.io/api/v1/sid"
               />
               <div class="flex-grow">
                 <h2 class="text-gray-900 title-font font-medium">
@@ -49,7 +49,7 @@ export default function Team() {
               <img
                 alt="team"
                 class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/88x88"
+                src="https://joeschmoe.io/api/v1/bijesh"
               />
               <div class="flex-grow">
                 <h2 class="text-gray-900 title-font font-medium">
@@ -64,7 +64,7 @@ export default function Team() {
               <img
                 alt="team"
                 class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/90x90"
+                src="https://joeschmoe.io/api/v1/dheer"
               />
               <div class="flex-grow">
                 <h2 class="text-gray-900 title-font font-medium">
@@ -79,7 +79,7 @@ export default function Team() {
               <img
                 alt="team"
                 class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/94x94"
+                src="https://joeschmoe.io/api/v1/sibasish"
               />
               <div class="flex-grow">
                 <h2 class="text-gray-900 title-font font-medium">
@@ -94,7 +94,7 @@ export default function Team() {
               <img
                 alt="team"
                 class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/98x98"
+                src="https://joeschmoe.io/api/v1/atif"
               />
               <div class="flex-grow">
                 <h2 class="text-gray-900 title-font font-medium">Atif</h2>
@@ -107,7 +107,7 @@ export default function Team() {
               <img
                 alt="team"
                 class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/100x90"
+                src="https://joeschmoe.io/api/v1/satyam"
               />
               <div class="flex-grow">
                 <h2 class="text-gray-900 title-font font-medium">Satyam</h2>
@@ -120,7 +120,7 @@ export default function Team() {
               <img
                 alt="team"
                 class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/104x94"
+                src="https://joeschmoe.io/api/v1/victor"
               />
               <div class="flex-grow">
                 <h2 class="text-gray-900 title-font font-medium">Victor</h2>
