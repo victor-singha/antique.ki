@@ -92,7 +92,7 @@ export default function Team() {
               />
               <div class="flex-grow">
                 <h2 class="text-white title-font font-medium">Atif</h2>
-                <p class="text-yellow-500">Assasin/Mage</p>
+                <p class="text-yellow-500">Assassin/Mage</p>
               </div>
             </div>
           </div>
