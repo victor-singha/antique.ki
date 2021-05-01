@@ -4,7 +4,7 @@ export default function Contact() {
   return (
     <div>
       <section class="text-gray-600 body-font relative">
-        {/* <div class="absolute inset-0 bg-gray-300">
+        <div class="absolute inset-0 bg-gray-300">
           <iframe
             width="100%"
             height="100%"
@@ -16,7 +16,7 @@ export default function Contact() {
             src=" https://maps.google.com/maps?q=Silchar&t=&z=13&ie=UTF8&iwloc=&output=embed"
             // style="filter: grayscale(1) contrast(1.2) opacity(0.4);"
           ></iframe>
-        </div> */}
+        </div>
 
         <div class="container px-5 py-24 mx-auto flex">
           <div class="lg:w-1/3 md:w-1/2 bg-white rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md bg-gray-900">
@@ -24,7 +24,8 @@ export default function Contact() {
               Feedback
             </h2>
             <p class="leading-relaxed mb-5 text-gray-400">
-              Post-ironic portland shabby chic echo park, banjo fashion axe
+              We value your feedback but we don't have any written program/code
+              to accept it.
             </p>
             <div class="relative mb-4">
               <label for="email" class="leading-7 text-sm text-yellow-500">
@@ -50,10 +51,7 @@ export default function Contact() {
             <button class="text-white bg-gray-900 border border-white py-2 px-6 focus:outline-none hover:bg-gray-800 rounded text-lg">
               Submit
             </button>
-            <p class="text-xs text-gray-500 mt-3">
-              Chicharrones blog helvetica normcore iceland tousled brook viral
-              artisan.
-            </p>
+            <p class="text-xs text-gray-500 mt-3">*do not use this form.</p>
           </div>
         </div>
       </section>
