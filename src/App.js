@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Gyan from "./components/Gyan";
 import Hero from "./components/Hero";
@@ -13,6 +14,7 @@ function App() {
       <Stats />
       <Team />
       <Gyan />
+      <Contact />
       <Footer />
     </div>
   );

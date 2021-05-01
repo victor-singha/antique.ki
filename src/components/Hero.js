@@ -9,7 +9,7 @@ export default function Hero() {
             <h1 class="title-font sm:text-4xl text-3xl mb-1 font-medium text-white">
               Antique<span className="text-yellow-500">KINGDOM</span>
             </h1>
-            <h2 className="title-font sm:text-2xl text-2xl mb-4 font-small">
+            <h2 className="title-font sm:text-2xl text-2xl mb-4 font-small text-gray-400">
               2014 estd.
             </h2>
             <p class="mb-8 leading-relaxed text-white">
